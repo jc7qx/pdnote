@@ -1,6 +1,6 @@
 # pandas 學習筆記
 
-## [Pandas簡介](https://github.com/jc7qx/pdnote/raw/master/lesson1.ipynb)
+## [Pandas簡介](https://github.com/jc7qx/pdnote/raw/master/README.md)
 ## Pandas資料結構
 ### 序列(Series)
 ### 資料框(DataFrame)
